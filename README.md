@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React and Android Development**
 
-- 👨‍💻 This is simple portfolio [https://myportfoliosagar.web.app/](https://myportfoliosagar.web.app/)
+- 👨‍💻 This is my simple portfolio [https://myportfoliosagar.web.app/](https://myportfoliosagar.web.app/)
 
 - 💬 Ask me about **Java and Springboot**
 
