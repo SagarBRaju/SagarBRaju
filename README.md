@@ -3,13 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarbraju&label=Profile%20views&color=0e75b6&style=flat" alt="sagarbraju" /> </p>
 
-- 🌱 I’m currently learning **React and Android Development**
+- 🌱 I’m currently **Advancing my skills in backend development and exploring the basics of React and Android development.**
 
-- 👨‍💻 This is my simple portfolio [https://myportfoliosagar.web.app/](https://myportfoliosagar.web.app/)
+- 👨‍💻 This is my simple portfolio using react [https://myportfoliosagar.web.app/](https://myportfoliosagar.web.app/)
 
 - 💬 Ask me about **Java and Springboot**
 
 - 📫 How to reach me **sagardev2405@gmail.com**
+
+- ⚡ Fun fact **Outside of coding, I enjoy playing cricket with friends.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
